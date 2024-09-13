@@ -1,11 +1,11 @@
-boas vindas ao meu perfil!!
+## bem vindos ao meu perfil!!
 
-Meu nome é Maxwell de Brito Moraes
+ - Meu nome é Maxwell de Brito Moraes
 
-Estou estudando na Alura
+ - Estou estudando na Alura
 
-Estou me desenvolvendo na linguagem JavaScript
+ - Estou me desenvolvendo na linguagem JavaScript
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+ - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ![](https://media1.tenor.com/m/l69LxBrYPbAAAAAd/forza-motorsport-porsche-taycan-turbo-s.gif)
